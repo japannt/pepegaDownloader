@@ -6,6 +6,8 @@
 
 Written over the course of 3,5 days in C# and .net 3.1, whilst having some kind of flu idk.
 
+All pepe images are taken from [The Eye](https://the-eye.eu/), So big thanks to them!
+
 ### Features
 
  - Makes your desktop more interesting.
