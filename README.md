@@ -34,3 +34,4 @@ Written over the course of 3,5 days in C# and .net 3.1, whilst having some kind 
 
 Wow. you done it. you could've just got the [release](https://github.com/PokusPollo/pepegaDownloader/releases/tag/v1). 
 
+PS. I dont know how to compile .net shit to Linux, just use wine or something lol.
