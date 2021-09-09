@@ -39,8 +39,11 @@ namespace pepegaDownloader
             {
                 using (var client = new WebClient())
                 {
+                    try {
                     client.DownloadFile("https://the-eye.eu/public/Images/Pepe/" + name, Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "/Desktop/urfockdmate-" + name);
                     UpdateStats();
+                    } catch {
+                    }
                     downname = name;
                     downloaded += 1;
                 }
