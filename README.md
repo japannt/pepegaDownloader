@@ -22,7 +22,7 @@ All pepe images are taken from [The Eye](https://the-eye.eu/), So big thanks to 
  1. Grab the source code [here](https://github.com/PokusPollo/pepegaDownloader/archive/refs/heads/main.zip) or click the green **Code** button and click **Download ZIP**
  2. Fire up Visual Studio and open the **.sln** file.
  3. In VS on the top bar do the following:
-	   1. **Build** > Publish pepegaDownloader > Add a publish profile > Local Folder > Local Folder *again* > Choose your target location (For this example i used `C:\a)` > **Finish**
+	   1. **Build** > Publish pepegaDownloader > Add a publish profile > Local Folder > Local Folder *again* > Choose your target location (For this example i used `(C:\a)` > **Finish**
  4. Once on the screen with the **Publish** button, press **Show all settings**
  5. Set Configuration to **Release | Any CPU**
  6. Set Deployment mode to **Self-contained**
