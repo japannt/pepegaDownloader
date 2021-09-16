@@ -22,7 +22,7 @@ All pepe images are taken from [The Eye](https://the-eye.eu/), So big thanks to 
  1. Grab the source code [here](https://github.com/PokusPollo/pepegaDownloader/archive/refs/heads/main.zip) or click the green **Code** button and click **Download ZIP**
  2. Fire up Visual Studio and open the **.sln** file.
  3. In VS on the top bar do the following:
-	   1. **Build** > Publish pepegaDownloader > Add a publish profile > Local Folder > Local Folder *again* > Choose your target location (For this example i used `C:\a)` > **Finish**
+	   1. **Build** > Publish pepegaDownloader > Add a publish profile > Local Folder > Local Folder *again* > Choose your target location (For this example i used `(C:\a)` > **Finish**
  4. Once on the screen with the **Publish** button, press **Show all settings**
  5. Set Configuration to **Release | Any CPU**
  6. Set Deployment mode to **Self-contained**
@@ -34,6 +34,6 @@ All pepe images are taken from [The Eye](https://the-eye.eu/), So big thanks to 
  12. Wait until it compiles.
  13. Once it compiles, go to your **Target location** and you should see a single executable.
 
-Wow. you done it. you could've just got the [release](https://github.com/PokusPollo/pepegaDownloader/releases/tag/v1). 
+Wow. you done it. you could've just got the [release](https://github.com/japannt/pepegaDownloader/releases/latest/download/pepegaDownloader.exe). 
 
 PS. I dont know how to compile .net shit to Linux, just use wine or something lol.
